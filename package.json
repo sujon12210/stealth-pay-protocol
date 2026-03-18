@@ -1,0 +1,9 @@
+{
+  "name": "stealth-pay-protocol",
+  "version": "1.0.0",
+  "dependencies": {
+    "ethers": "^6.11.1",
+    "noble-secp256k1": "^2.0.0",
+    "hardhat": "^2.19.4"
+  }
+}
